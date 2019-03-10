@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleSignIn</string>
+    <string name="register">CREATE NEW ACCOUNT</string>
+</resources>
